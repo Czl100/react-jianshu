@@ -1,0 +1,42 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手手绘",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		},{
+		  "id": 3,
+		  "title": "社会热点",
+		  "imgUrl": "https://desk-fd.zol-img.com.cn/t_s208x130c5/g2/M00/00/00/ChMlWl0v6qGIdyz0AB91wRVU__IAAL5hwExovkAH3XZ791.jpg"
+		},{
+		  "id": 4,
+		  "title": "手绘",
+		  "imgUrl": "https://desk-fd.zol-img.com.cn/t_s208x130c5/g2/M00/00/00/ChMlWV0v7keIHcw5AAWxrVOn2soAAL5lQKwJFkABbHF570.jpg"
+		}],		
+		
+		"articleList": [{
+			"id": 1,
+			"title": "胡歌12年后首谈车祸",
+			"desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+			"imgUrl": "https://desk-fd.zol-img.com.cn/t_s208x130c5/g5/M00/0A/0F/ChMkJltFaBGIToiEAAfBrlBjWiYAApmOQInEHsAB8HG162.jpg"
+		}, {
+		  "id": 2,
+		  "imgUrl": "https://desk-fd.zol-img.com.cn/t_s208x130c5/g5/M00/09/0C/ChMkJlwXW1WIQ6vWAAKjtrFm0EoAAt1TQNcsm0AAqPO244.jpg",
+		  "title": "成年人的离开，都是悄无声息的",
+		  "desc": "对于成年人来说，离开是一件很稀松平常的事情，不会大张旗鼓地告别，不会惺惺作态地惋惜，只需要在某一个再平常不过的时刻，顺其自然地消失不见。"
+		}],		
+		
+		"recommendList": [{
+		  "id": 1,
+		  "imgUrl": "https://desk-fd.zol-img.com.cn/t_s208x130c5/g5/M00/09/09/ChMkJlggWJ2IeSq7ABRDPe2fU3EAAXjaANtwFQAFENV357.jpg"
+		},{
+		  "id": 2,
+		  "imgUrl": "https://desk-fd.zol-img.com.cn/t_s208x130c5/g5/M00/09/09/ChMkJlggWJ2IeSq7ABRDPe2fU3EAAXjaANtwFQAFENV357.jpg"
+		}]
+	}
+}
